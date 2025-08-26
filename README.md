@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-cmt&label=Profile%20views&color=0e75b6&style=flat" alt="dev-cmt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-cmt" alt="dev-cmt" /></a> </p>
-
 - 🔭 I’m currently working on Sky Tech Solve(https://skytechsolve.com)
 
 - 🌱 I’m currently learning **Laravel, Javascript.**
